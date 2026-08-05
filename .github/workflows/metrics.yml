@@ -1,0 +1,32 @@
+# 自生成 3D 贡献日历(替代已限流的第三方活动折线图)
+# 用你自己仓库的 token 生成静态 SVG,不碰全球共享服务,永不裂图
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天刷新一次
+  workflow_dispatch:        # 允许手动触发
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          template: classic
+          # 只保留 header 概览(加入时间、贡献仓库数)
+          base: header
+          config_timezone: Australia/Sydney
+          # 3D 贡献日历:真实提交 + 连续天数 + 单日最高 + 日均,全真数据、零依赖
+          # (languages / achievements 插件需要 PAT 才能跑,故不启用)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

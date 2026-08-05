@@ -31,6 +31,15 @@ status:      open to Full-Stack Developer roles  ✅
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,ts,html,css" height="36"/> |
 | **Cloud · AI · Ops** | <img src="https://skillicons.dev/icons?i=azure,docker,git,linux,py" height="36"/> |
 
+## `$ git log --stat`
+
+<div align="center">
+
+<!-- 自生成 3D 贡献日历:真实提交 + 连续天数 + 日均,由本仓库 Action 每日刷新,零第三方依赖 -->
+<img width="92%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/github-metrics.svg" alt="contribution metrics"/>
+
+</div>
+
 ## `$ git log --graph`
 
 <div align="center">
