@@ -69,23 +69,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tardisyuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c5cff&icon_color=22d3ee"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tardisyuan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c5cff&langs_count=8"/>
+<!-- 自生成静态卡:统计 + 语言分布 + 成就徽章,由本仓库 Action 每日刷新,零第三方依赖 -->
+<img width="95%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/github-metrics.svg" alt="metrics"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tardisyuan&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c5cff&ring=7c5cff&fire=22d3ee&currStreakLabel=22d3ee"/>
 
 <!-- 贡献活动折线图 -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tardisyuan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=7c5cff&point=ffffff&area=true"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tardisyuan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
 
 </div>
 
