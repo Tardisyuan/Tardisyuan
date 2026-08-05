@@ -31,20 +31,11 @@ status:      open to Full-Stack Developer roles  ✅
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,ts,html,css" height="36"/> |
 | **Cloud · AI · Ops** | <img src="https://skillicons.dev/icons?i=azure,docker,git,linux,py" height="36"/> |
 
-## `$ git log --stat`
+## `$ git log --graph`
 
 <div align="center">
 
-<!-- 贡献活动折线图(趋势) -->
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tardisyuan&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
-
-</div>
-
-## `$ ./snake`
-
-<div align="center">
-
-<!-- 自生成,自动跟随访客深色 / 浅色模式 -->
+<!-- 贪吃蛇:自生成,自动跟随访客深色 / 浅色模式 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/output/github-contribution-grid-snake.svg"/>
