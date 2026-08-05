@@ -35,10 +35,7 @@ status:      open to Full-Stack Developer roles  ✅
 
 <div align="center">
 
-<!-- 自生成静态卡:概览 + 语言分布 + 成就,由本仓库 Action 每日刷新,零第三方依赖 -->
-<img width="92%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/github-metrics.svg" alt="metrics"/>
-
-<!-- 贡献活动折线图 -->
+<!-- 贡献活动折线图(趋势) -->
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tardisyuan&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
 
 </div>
