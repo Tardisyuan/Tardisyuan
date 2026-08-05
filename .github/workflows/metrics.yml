@@ -23,8 +23,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          # 只保留 header(commits/repos 等有数据的概览),去掉稀疏的 activity / community 区块
+          base: header
           config_timezone: Australia/Sydney
+          # 3D 贡献日历:直接可视化你今年的 1769 次提交,全是真数据
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           # 语言分布(替代原来的 top-langs 卡)
           plugin_languages: yes
           plugin_languages_details: percentage
