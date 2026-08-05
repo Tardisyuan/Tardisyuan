@@ -10,6 +10,10 @@ on:
     branches:
       - main
 
+# 给 workflow token 写权限,否则推 output 分支会 403
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
