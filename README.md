@@ -1,35 +1,34 @@
-<div align="center">
-
-<!-- ===== 终端风打字机 hero ===== -->
-[![Terminal typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=39D353&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Full-Stack+Developer+%40+Sydney;%24+cat+stack+%E2%86%92+Java+%C2%B7+Spring+Boot+%C2%B7+React;%3E+building+AI-powered+applications+%F0%9F%A4%96;%3E+open+to+Full-Stack+Developer+roles+%E2%9C%85)](https://github.com/Tardisyuan)
-
-[![Profile views](https://komarev.com/ghpvc/?username=Tardisyuan&label=visitors&color=39d353&style=flat-square)](https://github.com/Tardisyuan)
-[![Gmail](https://img.shields.io/badge/tardisyuan@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=39d353)](mailto:tardisyuan@gmail.com)
-[![Location](https://img.shields.io/badge/Sydney,%20Australia-0d1117?style=flat-square&logo=googlemaps&logoColor=22d3ee)](#)
-
-</div>
+<!-- ===== 手做头图(自托管 SVG,永不裂图) ===== -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/assets/header.svg" alt="Richard Yuan — Full-Stack Developer, Sydney"/>
+</p>
 
 ```yaml
 # ~ whoami
 name:        Richard Yuan  (@Tardisyuan)
-location:    Sydney, Australia  🌏
 education:   Master of IT @ UNSW
 experience:  2+ years · backend engineering
-role:        Full-Stack Developer
-stack:
-  backend:   [ Java, Spring Boot, MySQL, Redis ]
-  frontend:  [ React, Vue, TypeScript ]
-  ai_cloud:  [ Azure OpenAI, Docker ]
+focus:       [ Full-Stack, Distributed Systems, AI apps ]
 status:      open to Full-Stack Developer roles  ✅
 ```
 
 ## `$ tech --stack`
 
-| | |
-|---|---|
-| **Backend · Data** | <img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,redis" height="36"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,ts,html,css" height="36"/> |
-| **Cloud · AI · Ops** | <img src="https://skillicons.dev/icons?i=azure,docker,git,linux,py" height="36"/> |
+<div align="center">
+
+`Backend · Data`
+
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,redis" alt="backend"/>
+
+`Frontend`
+
+<img src="https://skillicons.dev/icons?i=react,vue,ts,html,css" alt="frontend"/>
+
+`Cloud · AI · Ops`
+
+<img src="https://skillicons.dev/icons?i=azure,docker,git,linux,py" alt="cloud"/>
+
+</div>
 
 ## `$ git log --stat`
 
@@ -53,6 +52,14 @@ status:      open to Full-Stack Developer roles  ✅
 
 </div>
 
+---
+
 <div align="center">
+
+<a href="mailto:tardisyuan@gmail.com"><img src="https://img.shields.io/badge/tardisyuan@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=39d353" alt="email"/></a>
+&nbsp;
+<a href="https://github.com/Tardisyuan"><img src="https://img.shields.io/badge/@Tardisyuan-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" alt="github"/></a>
+
 <sub><code>$ echo "let's build something great together"</code></sub>
+
 </div>
