@@ -1,6 +1,6 @@
 <!-- ===== 手做头图(自托管 SVG,永不裂图) ===== -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/assets/header.svg" alt="Richard Yuan — Full-Stack Developer, Sydney"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/assets/header.svg" alt="Richard Yuan — AI Apps and Full-Stack Developer, Sydney"/>
 </p>
 
 ```yaml
@@ -8,13 +8,28 @@
 name:        Richard Yuan  (@Tardisyuan)
 education:   Master of IT @ UNSW
 experience:  2+ years · backend engineering
-focus:       [ Full-Stack, Distributed Systems, AI apps ]
-status:      open to Full-Stack Developer roles  ✅
+focus:       [ AI apps, Full-Stack, Distributed Systems ]
+status:      open to AI application and Full-Stack roles  ✅
 ```
+
+## `$ ./featured`
+
+**[J.A.R.V.I.S.](https://github.com/Tardisyuan/jarvis-showcase)**: a household voice butler on your own server, where risky actions are checked by code, not left to the model.
+
+It knows who is speaking, acts within what you grant, and leaves a receipt for everything. Built solo: I set the direction, the rules and the reviews; AI agents write the code.
+
+**[Live demo](https://jarvis-demo.tardisyuan.ltd/?lang=en)** · [How it is built](https://jarvis-demo.tardisyuan.ltd/how) · [Project page](https://github.com/Tardisyuan/jarvis-showcase)
+
+<a href="https://github.com/Tardisyuan/jarvis-showcase"><img width="480" src="https://raw.githubusercontent.com/Tardisyuan/jarvis-showcase/main/images/door.gif" alt="Jarvis: unlocking the front door waits for a yes, leaves a receipt, and can be undone"/></a>
+
 
 ## `$ tech --stack`
 
 <div align="center">
+
+`AI apps · Python`
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,threejs,js,sqlite" alt="AI apps and Python"/>
 
 `Backend · Data`
 
@@ -24,9 +39,9 @@ status:      open to Full-Stack Developer roles  ✅
 
 <img src="https://skillicons.dev/icons?i=react,vue,ts,html,css" alt="frontend"/>
 
-`Cloud · AI · Ops`
+`Cloud · Ops`
 
-<img src="https://skillicons.dev/icons?i=azure,docker,git,linux,py" alt="cloud"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,linux" alt="cloud and ops"/>
 
 </div>
 
