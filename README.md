@@ -1,6 +1,6 @@
 <!-- ===== 手做头图(自托管 SVG,永不裂图) ===== -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/assets/header.svg" alt="Richard Yuan — AI Apps and Full-Stack Developer, Sydney"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Tardisyuan/Tardisyuan/main/assets/header.svg" alt="Richard Yuan — AI Apps and Full-Stack Developer"/>
 </p>
 
 ```yaml

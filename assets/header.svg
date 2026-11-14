@@ -1,4 +1,4 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Richard Yuan — AI Apps and Full-Stack Developer, Sydney">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Richard Yuan — AI Apps and Full-Stack Developer">
   <defs>
     <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#39d353"/>
@@ -14,7 +14,7 @@
   <text x="1122" y="238" text-anchor="end" font-family="Georgia,'Times New Roman',serif" font-size="260" font-weight="700" fill="#161b22">RY</text>
 
   <!-- terminal prompt signature (top-left) -->
-  <text x="80" y="62" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="15" letter-spacing="0.5"><tspan fill="#3fb950">richard@sydney</tspan><tspan fill="#5b6b7c">:~$</tspan></text>
+  <text x="80" y="62" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="15" letter-spacing="0.5"><tspan fill="#3fb950">richard@dev</tspan><tspan fill="#5b6b7c">:~$</tspan></text>
 
   <!-- open-to-work marker (top-right) -->
   <circle cx="1050" cy="57" r="5" fill="#39d353"/>
@@ -33,5 +33,5 @@
   </rect>
 
   <!-- code-comment sub-line -->
-  <text x="80" y="246" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="16" fill="#6a9955">// Backend + AI · Master of IT @ UNSW · Sydney, AU 🌏</text>
+  <text x="80" y="246" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="16" fill="#6a9955">// Backend + AI · Master of IT @ UNSW</text>
 </svg>
